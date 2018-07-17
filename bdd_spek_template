@@ -1,0 +1,8 @@
+Scenario("$SCENARIO$") {
+    Given("$GIVEN$") {
+        When("$WHEN$") {
+            Then("$THEN$") {
+            }
+        }    
+    }
+}
